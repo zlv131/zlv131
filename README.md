@@ -10,8 +10,6 @@
    Мои технологии: React, Redux, MUI, TypeScript, JavaScript, CSS/SASS, HTML, Git
 </h3>
 
-<div>
-   [![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
-</div>
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
   
 
