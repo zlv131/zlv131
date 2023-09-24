@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://github.com/zlv131"> Привет! Меня зовут Захар 👋 </a> 
+<h1 align="left"><a href="https://github.com/zlv131"> Привет! Меня зовут Захар 👋 </a> </h1> 
    
 <h3 align="left"> 
    Разрабатываю веб-приложения на React.js 
@@ -11,7 +11,7 @@
 </h3>
 
 <div>
-   [![Мой стек](https://skillicons.dev/icons?i=react, redux, ts, js, css, sass, html, vite, git, figma)](https://skillicons.dev)
+   [![Skilss](https://skillicons.dev/icons?i=react, redux, ts, js, css, sass, html, vite, git, figma)](https://skillicons.dev)
 </div>
   
 
